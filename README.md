@@ -4,9 +4,10 @@
 **UI Designer ➔ Web Developer** *Bridging the gap between beautiful pixels and clean, accessible code.*
 
 - **Design:** Crafting interfaces that look stunning and feel intuitive.
-- **Dev:** Turning those designs into reality using clean code and open-source tech.
+- **Dev:** Turning those designs into reality using clean code.
+- **Next-Gen Stack:** Always adopting modern tech and workflows to build faster, smarter, and more optimized web experiences.
 - **AI Workflow:** Leveraging AI to supercharge productivity—but I always hold the steering wheel. Everything is strictly human-verified (no blind copy-pasting here).
-- **Current Setup:** Powered by Linux (KDE Plasma), a highly customized terminal, and way too much coffee.
+- **Current Setup:** Maining a heavily riced Linux (KDE Plasma) terminal, but I’m an OS chameleon—juggling a MacBook for slick pixels, a Windows rig for heavy lifting, and way too much cross-platform coffee.
 - **Obsession:** Building fast, responsive, and GEO-optimized web experiences.
 
 *"If it's not beautiful, it's not done. If it's not optimized, it's not ready."*
