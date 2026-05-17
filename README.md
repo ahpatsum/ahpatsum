@@ -1,5 +1,14 @@
 # 💫 About Me:
-I’m a certified graphic designer with a passion for quality craftsmanship and good design. To me, it’s not just about pushing pixels; it’s about the feeling you get from a perfectly crafted logo, like the first sip of a strong, hot coffee on a chilly morning.
+## 🪐 Hey there, I'm Mus!
+
+**UI Designer ➔ Web Developer** *Bridging the gap between beautiful pixels and clean, accessible code.*
+
+- 🎨 **Design:** Crafting interfaces that look stunning and feel intuitive.
+- 💻 **Dev:** Turning those designs into reality using clean code and open-source tech.
+- 🔧 **Current Setup:** Powered by Linux (KDE Plasma), a highly customized terminal, and way too much coffee.
+- 🚀 **Obsession:** Building fast, responsive, and GEO-optimized web experiences.
+
+*"If it's not beautiful, it's not done. If it's not optimized, it's not ready."*
 
 
 ## 🌐 Socials:
