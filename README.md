@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🪐 Hey there, I'm Mus!
+#  About Me:
+##  Hey there, I'm Mus!
 
 **UI Designer ➔ Web Developer** *Bridging the gap between beautiful pixels and clean, accessible code.*
 
